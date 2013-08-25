@@ -1,1364 +1,1364 @@
-abaisser
-abasourdir
-abattre
-abolir
-absoudre
-abstenir
-accepter
-acclamer
-accompagner
-accorder
-accourir
-accrocher
-accueillir
-accuser
-acheter
-achever
-acquérir
-adjoindre
-admettre
-admirer
-adorer
-adresser
-advenir
-affaiblir
-agacer
-agir
-aider
-aimer
-ajouter
-aller
-aménager
-amener
-amuser
-animer
-annoncer
-apercevoir
-apparaître
-appartenir
-appeler
-apporter
-apprendre
-par
-coeur
-approcher
-approuver
-armer
-arracher
-arraisonner
-arranger
-arrêter
-arriver
-assaillir
-asseoir
-assister
-assurer
-astreindre
-attaquer
-atteindre
-attendre
-attirer
-attraper
-augmenter
-avancer
-aventurer
-avoir
-avoir
-besoin
-avoir
-raison
-baisser
-balancer
-balayer
-bâtir
-battre
-bavarder
-bêler
-bénir
-blaguer
-blâmer
-blanchir
-blesser
-boire
-bouger
-bouillir
-briser
-brosser
-broyer
-brûler
-cacher
-casser
-causer
-céder
-ceindre
-célébrer
-cesser
-changer
-chanter
-charger
-chasser
-cheminer
-chercher
-chérir
-choisir
-chuchoter
-circoncire
-circonscrire
-circonvenir
-clore
-coller
-combattre
-commander
-commencer
-commettre
-comparaître
-comparer
-compléter
-comprendre
-compter
-concevoir
-conclure
-concourir
-conduire
-confire
-confondre
-conjoindre
-connaître
-conquérir
-conseiller
-consentir
-considérer
-élire
-éloigner
-embrasser
-emmener
-émoudre
-emparer
-empêcher
-employer
-empreindre
-emprunter
-enclore
-encourager
-encourir
-endormir
-enduire
-enfreindre
-enfuir
-engager
-enjoindre
-enlever
-ennuyer
-énoncer
-enquérir
-enregistrer
-enseigner
-ensuivre
-entendre
-enterrer
-entraîner
-entreprendre
-entrer
-entretenir
-entrouvrir
-envoler
-envoyer
-épeler
-épouser
-épreindre
-éprouver
-équivaloir
-espérer
-essayer
-essuyer
-estimer
-établir
-éteindre
-étendre
-étonner
-étourdir
-être
-étreindre
-étudier
-évaluer
-éviter
-exagérer
-exclure
-excuser
-exiger
-exister
-expliquer
-explorer
-exprimer
-faiblir
-fâcher
-faillir
-faire
-falloir
-feindre
-féliciter
-fendre
-fermer
-feuilleter
-fier
-finir
-fixer
-fonder
-fondre
-forcer
-forclore
-fouiller
-fournir
-frapper
-frémir
-frire
-fuir
-fumer
-gagner
-garder
-gaspiller
-gâter
-geindre
-geler
-gêner
-gérer
-goûter
-grandir
-gratter
-grêler
-grimper
-gronder
-guérir
-habiller
-habiter
-haïr
-hésiter
-hoqueter
-ignorer
-imposer
-inclure
-indiquer
-induire
-informer
-inquiéter
-inscrire
-insister
-instruire
-interdire
-intéresser
-interroger
-interrompre
-intervenir
-interroger
-introduire
-inventer
-inviter
-plaire
-plaisanter
-planter
-pleurer
-pleuvoir
-plier
-plonger
-poindre
-pondre
-porter
-poser
-posséder
-poursuivre
-pousser
-pouvoir
-prédire
-préférer
-prendre
-préparer
-(parer)
-prescrire
-présenter
-pressentir
-presser
-prétendre
-prêter
-prévaloir
-prévenir
-prévoir
-prier
-produire
-projeter
-promener
-promettre
-prononcer
-proposer
-proscrire
-protéger
-prouver
-provenir
-puer
-punir
-quérir
-quitter
-raconter
-ralentir
-ranger
-rappeler
-rassurer
-rater
-ravir
-recevoir
-reconduire
-reconnaître
-reconstruire
-recoudre
-recourir
-recouvrir
-récrire
-recueillir
-rédiger
-redire
-réduire
-réélire
-refaire
-réfléchir
-refléter
-refuser
-regarder
-regretter
-rejeter
-rejoindre
-relire
-remarquer
-remercier
-remettre
-remoudre
-remplacer
-remplir
-rencontrer
-rendre
-renoncer
-renouveler
-rentrer
-renvoyer
-répandre
-reparaître
-réparer
-repasser
-repeindre
-repentir
-repérer
-répéter
-répondre
-reposer
-reprendre
-réprimander
-reproduire
-résoudre
-ressembler
-ressentir
-rester
-restreindre
-reteindre
-retenir
-retourner
-réussir
-réveiller
-révéler
-revendiquer
-revenir
-rêver
-revêtir
-revoir
-riposter
-rire
-rompre
-rougir
-rouler
-rouvrir
-saillir
-saisir
-salir
-satisfaire
-sauter
-sauver
-savoir
-secouer
-secourir
-séduire
-séjourner
-sembler
-sentir
-séparer
-serrer
-servir
-siffler
-signaler
-signer
-signifier
-skier
-songer
-sonner
-sortir
-souffler
-souffrir
-souhaiter
-souiller
-soumettre
-sourire
-souscrire
-soutenir
-souvenir
-construire
-contenir
-conter
-continuer
-contraindre
-contredire
-contrevenir
-contrôler
-convaincre
-convenir
-correspondre
-corriger
-corrompre
-coucher
-coudre
-couper
-courir
-coûter
-couvrir
-craindre
-créer
-crier
-croire
-cueillir
-cuire
-culpabiliser
-danser
-débattre
-décevoir
-déchirer
-décider
-déclore
-déconfire
-découdre
-décourager
-découvrir
-décrire
-dédire
-déduire
-défaillir
-défaire
-défendre
-défricher
-dégager
-déjeuner
-demander
-déménager
-demeurer
-démolir
-dénoncer
-dépasser
-départir
-dépêcher
-dépeindre
-dépendre
-dépenser
-déplaire
-déranger
-descendre
-désirer
-désobéir
-dessiner
-déteindre
-détenir
-détester
-détourner
-détruire
-développer
-devenir
-dévêtir
-deviner
-devoir
-différer
-diminuer
-dîner
-dire
-diriger
-discourir
-discuter
-disjoindre
-disparaître
-dissoudre
-divorcer
-donner
-dormir
-doubler
-douter
-échapper
-échouer
-éclore
-éconduire
-écouter
-écraser
-écrire
-effacer
-effrayer
-égayer
-élever
-jaillir
-jaser
-jaunir
-jeter
-joindre
-jouer
-jouir
-juger
-jurer
-kidnapper
-klaxonner
-lâcher
-laisser
-lancer
-laver
-lever
-permettre
-persuader
-peser
-pianoter
-placer
-plaindre
-lire
-loger
-louer
-luire
-maigrir
-maintenir
-manger
-manquer
-marcher
-maudire
-méconnaître
-médire
-méfier
-mélanger
-menacer
-mener
-mentir
-méprendre
-mépriser
-mériter
-mesurer
-mettre
-modérer
-monter
-montrer
-moquer
-mordre
-moudre
-mouiller
-mourir
-nager
-subvenir
-sucer
-succomber
-suffire
-suggérer
-suivre
-supplier
-supposer
-supporter
-surprendre
-survenir
-survivre
-survoler
-susciter
-tapoter
-teindre
-téléphoner
-tendre
-tenir
-tenter
-terminer
-tirer
-tomber
-tondre
-tonner
-toquer
-tordre
-toucher
-tourner
-tousser
-tracer
-traduire
-trahir
-traiter
-transcrire
-transmettre
-transparaître
-travailler
-traverser
-tressaillir
-tricher
-tromper
-trouver
-tuer
-tutoyer
-unifier
-unir
-user
-utiliser
-vaincre
-valoir
-vanter
-varier
-veiller
-vendre
-venger
-venir
-verdir
-vérifier
-verser
-vêtir
-vieillir
-viser
-visiter
-vivre
-voiler
-voir
-voler
-voter
-vouloir
-vouvoyer
-voyager
-warranter
-zébrer
-zézayer
-zoner
-naître
-naviguer
-négliger
-négocier
-neiger
-nettoyer
-neutraliser
-nier
-noircir
-nommer
-noter
-nouer
-nourrir
-noyer
-nuire
-obéir
-obliger
-obtenir
-occlure
-occuper
-offrir
-oindre
-omettre
-oser
-oublier
-ouvrir
-paraître
-parcourir
-pardonner
-parler
-partager
-participer
-partir
-parvenir
-passer
-patiner
-payer
-pécher
-pêcher
-peigner
-peindre
-peler
-pendre
-pénétrer
-penser
-percevoir
-perdre
-abolir
-absoudre
-abstenir
-accepter
-accompagner
-départir
-accuser
-achever
-acquérir
-agir
-ajouter
-adresser
-admirer
-accorder
-admettre
-adorer
-avancer
-toucher
-vieillir
-viser
-amuser
-annoncer
-agacer
-oindre
-répondre
-apparaître
-comparaître
-adjoindre
-approcher
-approuver
-armer
-arranger
-ranger
-arriver
-demander
-assaillir
-assurer
-étonner
-attaquer
-atteindre
-assister
-attirer
-venger
-éviter
-être
-pouvoir
-déconfire
-naître
-falloir
-ignorer
-méconnaître
-avoir
-raison
-valoir
-battre
-devenir
-supplier
-commencer
-croire
-appartenir
-trahir
-engager
-mordre
-noircir
-blâmer
-blanchir
-déteindre
-bénir
-souffler
-bouillir
-ennuyer
-emprunter
-gêner
-briser
-casser
-rompre
-apporter
-animer
-brosser
-bâtir
-brûler
-enterrer
-acheter
-appeler
-téléphoner
-attraper
-susciter
-cesser
-célébrer
-changer
-bavarder
-causer
-jaser
-acclamer
-chérir
-choisir
-circoncire
-circonvenir
-prétendre
-nettoyer
-grimper
-monter
-clore
-fermer
-vêtir
-enduire
-recueillir
-peigner
-combattre
-venir
-revenir
-provenir
-commettre
-comparer
-astreindre
-contraindre
-concourir
-compléter
-concevoir
-conclure
-confondre
-évaluer
-exagérer
-dépasser
-exclure
-excuser
-exister
-expliquer
-explorer
-exprimer
-éteindre
-échouer
-défaillir
-tomber
-endormir
-craindre
-nourrir
-ressentir
-sentir
-feindre
-remplir
-trouver
-finir
-pêcher
-aménager
-fixer
-fuir
-survoler
-plier
-suivre
-interdire
-forcer
-prévoir
-oublier
-pardonner
-fonder
-dégager
-geler
-effrayer
-frire
-fournir
-cueillir
-fâcher
-donner
-rendre
-céder
-aller
-sortir
-serrer
-broyer
-geindre
-grandir
-warranter
-deviner
-arraisonner
-grêler
-entrouvrir
-pendre
-accrocher
-advenir
-nuire
-éclore
-détester
-haïr
-avoir
-pressentir
-dîner
-déjeuner
-devoir
-entendre
-aider
-secourir
-hésiter
-hoqueter
-cacher
-détenir
-tenir
-klaxonner
-espérer
-chasser
-accourir
-dépêcher
-blesser
-emparer
-imposer
-empreindre
-inclure
-augmenter
-encourir
-indiquer
-informer
-enfreindre
-enquérir
-insister
-instruire
-intéresser
-interroger
-interrompre
-intervenir
-introduire
-présenter
-inventer
-inviter
-entraîner
-repasser
-joindre
-blaguer
-plaisanter
-juger
-épreindre
-sauter
-garder
-kidnapper
-tuer
-embrasser
-frapper
-toquer
-abattre
-connaître
-savoir
-faillir
-rire
-pondre
-mener
-feuilleter
-défricher
-apprendre
-laisser
-partir
-quitter
-mentir
-lever
-aimer
-zézayer
-écouter
-habiter
-vivre
-demeurer
-charger
-prêter
-repérer
-loger
-entretenir
-regarder
-chercher
-lâcher
-perdre
-maigrir
-abaisser
-baisser
-maintenir
-faire
-culpabiliser
-médire
-gérer
-épouser
-signifier
-mesurer
-rencontrer
-fondre
-app.
-par
-coeur
-mériter
-moudre
-induire
-manquer
-rater
-méprendre
-méfier
-mélanger
-moquer
-modérer
-bouger
-déménager
-éloigner
-nommer
-naviguer
-avoir
-besoin
-négliger
-négocier
-neutraliser
-remarquer
-obéir
-obliger
-obtenir
-occlure
-occuper
-survenir
-offrir
-omettre
-ouvrir
-commander
-peindre
-participer
-doubler
-passer
-payer
-peler
-percevoir
-périr
-permettre
-persuader
-plaindre
-planter
-jouer
-plaire
-posséder
-verser
-vanter
-prier
-prédire
-préférer
-préparer
-confire
-empêcher
-prévenir
-prévaloir
-produire
-proscrire
-projeter
-promettre
-prononcer
-proposer
-protéger
-saillir
-prouver
-subvenir
-tirer
-arracher
-punir
-poursuivre
-pousser
-mettre
-placer
-poser
-remettre
-ceindre
-revêtir
-coucher
-interroger
-pleuvoir
-élever
-parvenir
-lire
-reparaître
-rassurer
-reconstruire
-rappeler
-recevoir
-reconnaître
-conseiller
-enregistrer
-conter
-recouvrir
-rougir
-refaire
-réduire
-réélire
-refléter
-refuser
-regretter
-remoudre
-rejeter
-rejoindre
-rester
-souvenir
-(se)
-enlever
-reconduire
-renouveler
-renoncer
-louer
-déclore
-rouvrir
-repeindre
-réparer
-redire
-répéter
-repentir
-remplacer
-réprimander
-reproduire
-relire
-ressembler
-résoudre
-reposer
-restreindre
-retenir
-dédire
-retourner
-rentrer
-révéler
-récrire
-sonner
-déchirer
-rouler
-courir
-recourir
-enfuir
-satisfaire
-sauver
-dire
-gronder
-mépriser
-gratter
-séduire
-apercevoir
-voir
-revoir
-paraître
-sembler
-saisir
-vendre
-envoyer
-séparer
-servir
-coudre
-recoudre
-secouer
-partager
-émoudre
-tondre
-luire
-crier
-montrer
-transparaître
-frémir
-tressaillir
-signer
-signaler
-pécher
-chanter
-asseoir
-patiner
-skier
-dormir
-ralentir
-sourire
-fumer
-neiger
-salir
-souiller
-séjourner
-épeler
-dépenser
-fendre
-gâter
-répandre
-jaillir
-presser
-énoncer
-veiller
-voler
-coller
-puer
-arrêter
-tendre
-étendre
-zébrer
-étudier
-étourdir
-soumettre
-prescrire
-souscrire
-réussir
-sucer
-succomber
-souffrir
-suffire
-suggérer
-quérir
-supposer
-soutenir
-supporter
-surprendre
-survivre
-balancer
-jurer
-balayer
-nager
-amener
-emmener
-prendre
-reprendre
-envoler
-revendiquer
-parler
-pianoter
-tapoter
-goûter
-enseigner
-raconter
-éprouver
-remercier
-penser
-réfléchir
-menacer
-jeter
-lancer
-tonner
-nouer
-transcrire
-traduire
-transmettre
-voyager
-traiter
-tricher
-essayer
-tenter
-tourner
-verdir
-jaunir
-tordre
-subir
-comprendre
-entreprendre
-défaire
-dévêtir
-unifier
-conjoindre
-unir
-découdre
-utiliser
-tutoyer
-varier
-voiler
-aventurer
-vérifier
-visiter
-voter
-attendre
-réveiller
-promener
-cheminer
-marcher
-vouloir
-laver
-gaspiller
-affaiblir
-faiblir
-porter
-peser
-accueillir
-mouiller
-bêler
-chuchoter
-siffler
-gagner
-essuyer
-souhaiter
-travailler
-inquiéter
-écrire
-rédiger
-inscrire
-noter
-zoner
-féliciter
-démolir
-dénoncer
-nier
-dépendre
-fier
-dépeindre
-descendre
-décrire
-désirer
-détruire
-développer
-mourir
-différer
-fouiller
-diminuer
-diriger
-disparaître
-décevoir
-disjoindre
-décourager
-discourir
-découvrir
-discuter
-éconduire
-renvoyer
-désobéir
-déplaire
-dissoudre
-déranger
-plonger
-détourner
-divorcer
-douter
-dessiner
-tracer
-rêver
-songer
-habiller
-boire
-conduire
-noyer
-teindre
-reteindre
-manger
-élire
-étreindre
-employer
-enclore
-encourager
-terminer
-enjoindre
-jouir
-ensuivre
-entrer
-pénétrer
-égayer
-équivaloir
-effacer
-échapper
-établir
-conquérir
-consentir
-considérer
-construire
-consommer
-circonscrire
-contenir
-continuer
-contredire
-contrevenir
-contrôler
-convenir
-convaincre
-cuire
-corriger
-correspondre
-corrompre
-coûter
-tousser
-compter
-riposter
-couvrir
-parcourir
-créer
-traverser
-écraser
-pleurer
-guérir
-maudire
-couper
-danser
-oser
-poindre
-abasourdir
-forclore
-débattre
-tromper
-décider
-déduire
-vaincre
-défendre
-ravir
+
+var COMMON_VERB_LIST = [
+  'abaisser',
+  'abasourdir',
+  'abattre',
+  'abolir',
+  'absoudre',
+  'abstenir',
+  'accepter',
+  'acclamer',
+  'accompagner',
+  'accorder',
+  'accourir',
+  'accrocher',
+  'accueillir',
+  'accuser',
+  'acheter',
+  'achever',
+  'acquérir',
+  'adjoindre',
+  'admettre',
+  'admirer',
+  'adorer',
+  'adresser',
+  'advenir',
+  'affaiblir',
+  'agacer',
+  'agir',
+  'aider',
+  'aimer',
+  'ajouter',
+  'aller',
+  'aménager',
+  'amener',
+  'amuser',
+  'animer',
+  'annoncer',
+  'apercevoir',
+  'apparaître',
+  'appartenir',
+  'appeler',
+  'apporter',
+  'apprendre',
+  'par',
+  'coeur',
+  'approcher',
+  'approuver',
+  'armer',
+  'arracher',
+  'arraisonner',
+  'arranger',
+  'arrêter',
+  'arriver',
+  'assaillir',
+  'asseoir',
+  'assister',
+  'assurer',
+  'astreindre',
+  'attaquer',
+  'atteindre',
+  'attendre',
+  'attirer',
+  'attraper',
+  'augmenter',
+  'avancer',
+  'aventurer',
+  'avoir',
+  'avoir',
+  'besoin',
+  'avoir',
+  'raison',
+  'baisser',
+  'balancer',
+  'balayer',
+  'bâtir',
+  'battre',
+  'bavarder',
+  'bêler',
+  'bénir',
+  'blaguer',
+  'blâmer',
+  'blanchir',
+  'blesser',
+  'boire',
+  'bouger',
+  'bouillir',
+  'briser',
+  'brosser',
+  'broyer',
+  'brûler',
+  'cacher',
+  'casser',
+  'causer',
+  'céder',
+  'ceindre',
+  'célébrer',
+  'cesser',
+  'changer',
+  'chanter',
+  'charger',
+  'chasser',
+  'cheminer',
+  'chercher',
+  'chérir',
+  'choisir',
+  'chuchoter',
+  'circoncire',
+  'circonscrire',
+  'circonvenir',
+  'clore',
+  'coller',
+  'combattre',
+  'commander',
+  'commencer',
+  'commettre',
+  'comparaître',
+  'comparer',
+  'compléter',
+  'comprendre',
+  'compter',
+  'concevoir',
+  'conclure',
+  'concourir',
+  'conduire',
+  'confire',
+  'confondre',
+  'conjoindre',
+  'connaître',
+  'conquérir',
+  'conseiller',
+  'consentir',
+  'considérer',
+  'élire',
+  'éloigner',
+  'embrasser',
+  'emmener',
+  'émoudre',
+  'emparer',
+  'empêcher',
+  'employer',
+  'empreindre',
+  'emprunter',
+  'enclore',
+  'encourager',
+  'encourir',
+  'endormir',
+  'enduire',
+  'enfreindre',
+  'enfuir',
+  'engager',
+  'enjoindre',
+  'enlever',
+  'ennuyer',
+  'énoncer',
+  'enquérir',
+  'enregistrer',
+  'enseigner',
+  'ensuivre',
+  'entendre',
+  'enterrer',
+  'entraîner',
+  'entreprendre',
+  'entrer',
+  'entretenir',
+  'entrouvrir',
+  'envoler',
+  'envoyer',
+  'épeler',
+  'épouser',
+  'épreindre',
+  'éprouver',
+  'équivaloir',
+  'espérer',
+  'essayer',
+  'essuyer',
+  'estimer',
+  'établir',
+  'éteindre',
+  'étendre',
+  'étonner',
+  'étourdir',
+  'être',
+  'étreindre',
+  'étudier',
+  'évaluer',
+  'éviter',
+  'exagérer',
+  'exclure',
+  'excuser',
+  'exiger',
+  'exister',
+  'expliquer',
+  'explorer',
+  'exprimer',
+  'faiblir',
+  'fâcher',
+  'faillir',
+  'faire',
+  'falloir',
+  'feindre',
+  'féliciter',
+  'fendre',
+  'fermer',
+  'feuilleter',
+  'fier',
+  'finir',
+  'fixer',
+  'fonder',
+  'fondre',
+  'forcer',
+  'forclore',
+  'fouiller',
+  'fournir',
+  'frapper',
+  'frémir',
+  'frire',
+  'fuir',
+  'fumer',
+  'gagner',
+  'garder',
+  'gaspiller',
+  'gâter',
+  'geindre',
+  'geler',
+  'gêner',
+  'gérer',
+  'goûter',
+  'grandir',
+  'gratter',
+  'grêler',
+  'grimper',
+  'gronder',
+  'guérir',
+  'habiller',
+  'habiter',
+  'haïr',
+  'hésiter',
+  'hoqueter',
+  'ignorer',
+  'imposer',
+  'inclure',
+  'indiquer',
+  'induire',
+  'informer',
+  'inquiéter',
+  'inscrire',
+  'insister',
+  'instruire',
+  'interdire',
+  'intéresser',
+  'interroger',
+  'interrompre',
+  'intervenir',
+  'interroger',
+  'introduire',
+  'inventer',
+  'inviter',
+  'plaire',
+  'plaisanter',
+  'planter',
+  'pleurer',
+  'pleuvoir',
+  'plier',
+  'plonger',
+  'poindre',
+  'pondre',
+  'porter',
+  'poser',
+  'posséder',
+  'poursuivre',
+  'pousser',
+  'pouvoir',
+  'prédire',
+  'préférer',
+  'prendre',
+  'préparer',
+  'parer',
+  'prescrire',
+  'présenter',
+  'pressentir',
+  'presser',
+  'prétendre',
+  'prêter',
+  'prévaloir',
+  'prévenir',
+  'prévoir',
+  'prier',
+  'produire',
+  'projeter',
+  'promener',
+  'promettre',
+  'prononcer',
+  'proposer',
+  'proscrire',
+  'protéger',
+  'prouver',
+  'provenir',
+  'puer',
+  'punir',
+  'quérir',
+  'quitter',
+  'raconter',
+  'ralentir',
+  'ranger',
+  'rappeler',
+  'rassurer',
+  'rater',
+  'ravir',
+  'recevoir',
+  'reconduire',
+  'reconnaître',
+  'reconstruire',
+  'recoudre',
+  'recourir',
+  'recouvrir',
+  'récrire',
+  'recueillir',
+  'rédiger',
+  'redire',
+  'réduire',
+  'réélire',
+  'refaire',
+  'réfléchir',
+  'refléter',
+  'refuser',
+  'regarder',
+  'regretter',
+  'rejeter',
+  'rejoindre',
+  'relire',
+  'remarquer',
+  'remercier',
+  'remettre',
+  'remoudre',
+  'remplacer',
+  'remplir',
+  'rencontrer',
+  'rendre',
+  'renoncer',
+  'renouveler',
+  'rentrer',
+  'renvoyer',
+  'répandre',
+  'reparaître',
+  'réparer',
+  'repasser',
+  'repeindre',
+  'repentir',
+  'repérer',
+  'répéter',
+  'répondre',
+  'reposer',
+  'reprendre',
+  'réprimander',
+  'reproduire',
+  'résoudre',
+  'ressembler',
+  'ressentir',
+  'rester',
+  'restreindre',
+  'reteindre',
+  'retenir',
+  'retourner',
+  'réussir',
+  'réveiller',
+  'révéler',
+  'revendiquer',
+  'revenir',
+  'rêver',
+  'revêtir',
+  'revoir',
+  'riposter',
+  'rire',
+  'rompre',
+  'rougir',
+  'rouler',
+  'rouvrir',
+  'saillir',
+  'saisir',
+  'salir',
+  'satisfaire',
+  'sauter',
+  'sauver',
+  'savoir',
+  'secouer',
+  'secourir',
+  'séduire',
+  'séjourner',
+  'sembler',
+  'sentir',
+  'séparer',
+  'serrer',
+  'servir',
+  'siffler',
+  'signaler',
+  'signer',
+  'signifier',
+  'skier',
+  'songer',
+  'sonner',
+  'sortir',
+  'souffler',
+  'souffrir',
+  'souhaiter',
+  'souiller',
+  'soumettre',
+  'sourire',
+  'souscrire',
+  'soutenir',
+  'souvenir',
+  'construire',
+  'contenir',
+  'conter',
+  'continuer',
+  'contraindre',
+  'contredire',
+  'contrevenir',
+  'contrôler',
+  'convaincre',
+  'convenir',
+  'correspondre',
+  'corriger',
+  'corrompre',
+  'coucher',
+  'coudre',
+  'couper',
+  'courir',
+  'coûter',
+  'couvrir',
+  'craindre',
+  'créer',
+  'crier',
+  'croire',
+  'cueillir',
+  'cuire',
+  'culpabiliser',
+  'danser',
+  'débattre',
+  'décevoir',
+  'déchirer',
+  'décider',
+  'déclore',
+  'déconfire',
+  'découdre',
+  'décourager',
+  'découvrir',
+  'décrire',
+  'dédire',
+  'déduire',
+  'défaillir',
+  'défaire',
+  'défendre',
+  'défricher',
+  'dégager',
+  'déjeuner',
+  'demander',
+  'déménager',
+  'demeurer',
+  'démolir',
+  'dénoncer',
+  'dépasser',
+  'départir',
+  'dépêcher',
+  'dépeindre',
+  'dépendre',
+  'dépenser',
+  'déplaire',
+  'déranger',
+  'descendre',
+  'désirer',
+  'désobéir',
+  'dessiner',
+  'déteindre',
+  'détenir',
+  'détester',
+  'détourner',
+  'détruire',
+  'développer',
+  'devenir',
+  'dévêtir',
+  'deviner',
+  'devoir',
+  'différer',
+  'diminuer',
+  'dîner',
+  'dire',
+  'diriger',
+  'discourir',
+  'discuter',
+  'disjoindre',
+  'disparaître',
+  'dissoudre',
+  'divorcer',
+  'donner',
+  'dormir',
+  'doubler',
+  'douter',
+  'échapper',
+  'échouer',
+  'éclore',
+  'éconduire',
+  'écouter',
+  'écraser',
+  'écrire',
+  'effacer',
+  'effrayer',
+  'égayer',
+  'élever',
+  'jaillir',
+  'jaser',
+  'jaunir',
+  'jeter',
+  'joindre',
+  'jouer',
+  'jouir',
+  'juger',
+  'jurer',
+  'kidnapper',
+  'klaxonner',
+  'lâcher',
+  'laisser',
+  'lancer',
+  'laver',
+  'lever',
+  'permettre',
+  'persuader',
+  'peser',
+  'pianoter',
+  'placer',
+  'plaindre',
+  'lire',
+  'loger',
+  'louer',
+  'luire',
+  'maigrir',
+  'maintenir',
+  'manger',
+  'manquer',
+  'marcher',
+  'maudire',
+  'méconnaître',
+  'médire',
+  'méfier',
+  'mélanger',
+  'menacer',
+  'mener',
+  'mentir',
+  'méprendre',
+  'mépriser',
+  'mériter',
+  'mesurer',
+  'mettre',
+  'modérer',
+  'monter',
+  'montrer',
+  'moquer',
+  'mordre',
+  'moudre',
+  'mouiller',
+  'mourir',
+  'nager',
+  'subvenir',
+  'sucer',
+  'succomber',
+  'suffire',
+  'suggérer',
+  'suivre',
+  'supplier',
+  'supposer',
+  'supporter',
+  'surprendre',
+  'survenir',
+  'survivre',
+  'survoler',
+  'susciter',
+  'tapoter',
+  'teindre',
+  'téléphoner',
+  'tendre',
+  'tenir',
+  'tenter',
+  'terminer',
+  'tirer',
+  'tomber',
+  'tondre',
+  'tonner',
+  'toquer',
+  'tordre',
+  'toucher',
+  'tourner',
+  'tousser',
+  'tracer',
+  'traduire',
+  'trahir',
+  'traiter',
+  'transcrire',
+  'transmettre',
+  'transparaître',
+  'travailler',
+  'traverser',
+  'tressaillir',
+  'tricher',
+  'tromper',
+  'trouver',
+  'tuer',
+  'tutoyer',
+  'unifier',
+  'unir',
+  'user',
+  'utiliser',
+  'vaincre',
+  'valoir',
+  'vanter',
+  'varier',
+  'veiller',
+  'vendre',
+  'venger',
+  'venir',
+  'verdir',
+  'vérifier',
+  'verser',
+  'vêtir',
+  'vieillir',
+  'viser',
+  'visiter',
+  'vivre',
+  'voiler',
+  'voir',
+  'voler',
+  'voter',
+  'vouloir',
+  'vouvoyer',
+  'voyager',
+  'warranter',
+  'zébrer',
+  'zézayer',
+  'zoner',
+  'naître',
+  'naviguer',
+  'négliger',
+  'négocier',
+  'neiger',
+  'nettoyer',
+  'neutraliser',
+  'nier',
+  'noircir',
+  'nommer',
+  'noter',
+  'nouer',
+  'nourrir',
+  'noyer',
+  'nuire',
+  'obéir',
+  'obliger',
+  'obtenir',
+  'occlure',
+  'occuper',
+  'offrir',
+  'oindre',
+  'omettre',
+  'oser',
+  'oublier',
+  'ouvrir',
+  'paraître',
+  'parcourir',
+  'pardonner',
+  'parler',
+  'partager',
+  'participer',
+  'partir',
+  'parvenir',
+  'passer',
+  'patiner',
+  'payer',
+  'pécher',
+  'pêcher',
+  'peigner',
+  'peindre',
+  'peler',
+  'pendre',
+  'pénétrer',
+  'penser',
+  'percevoir',
+  'perdre',
+  'abolir',
+  'absoudre',
+  'abstenir',
+  'accepter',
+  'accompagner',
+  'départir',
+  'accuser',
+  'achever',
+  'acquérir',
+  'agir',
+  'ajouter',
+  'adresser',
+  'admirer',
+  'accorder',
+  'admettre',
+  'adorer',
+  'avancer',
+  'toucher',
+  'vieillir',
+  'viser',
+  'amuser',
+  'annoncer',
+  'agacer',
+  'oindre',
+  'répondre',
+  'apparaître',
+  'comparaître',
+  'adjoindre',
+  'approcher',
+  'approuver',
+  'armer',
+  'arranger',
+  'ranger',
+  'arriver',
+  'demander',
+  'assaillir',
+  'assurer',
+  'étonner',
+  'attaquer',
+  'atteindre',
+  'assister',
+  'attirer',
+  'venger',
+  'éviter',
+  'être',
+  'pouvoir',
+  'déconfire',
+  'naître',
+  'falloir',
+  'ignorer',
+  'méconnaître',
+  'avoir',
+  'raison',
+  'valoir',
+  'battre',
+  'devenir',
+  'supplier',
+  'commencer',
+  'croire',
+  'appartenir',
+  'trahir',
+  'engager',
+  'mordre',
+  'noircir',
+  'blâmer',
+  'blanchir',
+  'déteindre',
+  'bénir',
+  'souffler',
+  'bouillir',
+  'ennuyer',
+  'emprunter',
+  'gêner',
+  'briser',
+  'casser',
+  'rompre',
+  'apporter',
+  'animer',
+  'brosser',
+  'bâtir',
+  'brûler',
+  'enterrer',
+  'acheter',
+  'appeler',
+  'téléphoner',
+  'attraper',
+  'susciter',
+  'cesser',
+  'célébrer',
+  'changer',
+  'bavarder',
+  'causer',
+  'jaser',
+  'acclamer',
+  'chérir',
+  'choisir',
+  'circoncire',
+  'circonvenir',
+  'prétendre',
+  'nettoyer',
+  'grimper',
+  'monter',
+  'clore',
+  'fermer',
+  'vêtir',
+  'enduire',
+  'recueillir',
+  'peigner',
+  'combattre',
+  'venir',
+  'revenir',
+  'provenir',
+  'commettre',
+  'comparer',
+  'astreindre',
+  'contraindre',
+  'concourir',
+  'compléter',
+  'concevoir',
+  'conclure',
+  'confondre',
+  'évaluer',
+  'exagérer',
+  'dépasser',
+  'exclure',
+  'excuser',
+  'exister',
+  'expliquer',
+  'explorer',
+  'exprimer',
+  'éteindre',
+  'échouer',
+  'défaillir',
+  'tomber',
+  'endormir',
+  'craindre',
+  'nourrir',
+  'ressentir',
+  'sentir',
+  'feindre',
+  'remplir',
+  'trouver',
+  'finir',
+  'pêcher',
+  'aménager',
+  'fixer',
+  'fuir',
+  'survoler',
+  'plier',
+  'suivre',
+  'interdire',
+  'forcer',
+  'prévoir',
+  'oublier',
+  'pardonner',
+  'fonder',
+  'dégager',
+  'geler',
+  'effrayer',
+  'frire',
+  'fournir',
+  'cueillir',
+  'fâcher',
+  'donner',
+  'rendre',
+  'céder',
+  'aller',
+  'sortir',
+  'serrer',
+  'broyer',
+  'geindre',
+  'grandir',
+  'warranter',
+  'deviner',
+  'arraisonner',
+  'grêler',
+  'entrouvrir',
+  'pendre',
+  'accrocher',
+  'advenir',
+  'nuire',
+  'éclore',
+  'détester',
+  'haïr',
+  'avoir',
+  'pressentir',
+  'dîner',
+  'déjeuner',
+  'devoir',
+  'entendre',
+  'aider',
+  'secourir',
+  'hésiter',
+  'hoqueter',
+  'cacher',
+  'détenir',
+  'tenir',
+  'klaxonner',
+  'espérer',
+  'chasser',
+  'accourir',
+  'dépêcher',
+  'blesser',
+  'emparer',
+  'imposer',
+  'empreindre',
+  'inclure',
+  'augmenter',
+  'encourir',
+  'indiquer',
+  'informer',
+  'enfreindre',
+  'enquérir',
+  'insister',
+  'instruire',
+  'intéresser',
+  'interroger',
+  'interrompre',
+  'intervenir',
+  'introduire',
+  'présenter',
+  'inventer',
+  'inviter',
+  'entraîner',
+  'repasser',
+  'joindre',
+  'blaguer',
+  'plaisanter',
+  'juger',
+  'épreindre',
+  'sauter',
+  'garder',
+  'kidnapper',
+  'tuer',
+  'embrasser',
+  'frapper',
+  'toquer',
+  'abattre',
+  'connaître',
+  'savoir',
+  'faillir',
+  'rire',
+  'pondre',
+  'mener',
+  'feuilleter',
+  'défricher',
+  'apprendre',
+  'laisser',
+  'partir',
+  'quitter',
+  'mentir',
+  'lever',
+  'aimer',
+  'zézayer',
+  'écouter',
+  'habiter',
+  'vivre',
+  'demeurer',
+  'charger',
+  'prêter',
+  'repérer',
+  'loger',
+  'entretenir',
+  'regarder',
+  'chercher',
+  'lâcher',
+  'perdre',
+  'maigrir',
+  'abaisser',
+  'baisser',
+  'maintenir',
+  'faire',
+  'culpabiliser',
+  'médire',
+  'gérer',
+  'épouser',
+  'signifier',
+  'mesurer',
+  'rencontrer',
+  'fondre',
+  'coeur',
+  'mériter',
+  'moudre',
+  'induire',
+  'manquer',
+  'rater',
+  'méprendre',
+  'méfier',
+  'mélanger',
+  'moquer',
+  'modérer',
+  'bouger',
+  'déménager',
+  'éloigner',
+  'nommer',
+  'naviguer',
+  'avoir',
+  'besoin',
+  'négliger',
+  'négocier',
+  'neutraliser',
+  'remarquer',
+  'obéir',
+  'obliger',
+  'obtenir',
+  'occlure',
+  'occuper',
+  'survenir',
+  'offrir',
+  'omettre',
+  'ouvrir',
+  'commander',
+  'peindre',
+  'participer',
+  'doubler',
+  'passer',
+  'payer',
+  'peler',
+  'percevoir',
+  'périr',
+  'permettre',
+  'persuader',
+  'plaindre',
+  'planter',
+  'jouer',
+  'plaire',
+  'posséder',
+  'verser',
+  'vanter',
+  'prier',
+  'prédire',
+  'préférer',
+  'préparer',
+  'confire',
+  'empêcher',
+  'prévenir',
+  'prévaloir',
+  'produire',
+  'proscrire',
+  'projeter',
+  'promettre',
+  'prononcer',
+  'proposer',
+  'protéger',
+  'saillir',
+  'prouver',
+  'subvenir',
+  'tirer',
+  'arracher',
+  'punir',
+  'poursuivre',
+  'pousser',
+  'mettre',
+  'placer',
+  'poser',
+  'remettre',
+  'ceindre',
+  'revêtir',
+  'coucher',
+  'interroger',
+  'pleuvoir',
+  'élever',
+  'parvenir',
+  'lire',
+  'reparaître',
+  'rassurer',
+  'reconstruire',
+  'rappeler',
+  'recevoir',
+  'reconnaître',
+  'conseiller',
+  'enregistrer',
+  'conter',
+  'recouvrir',
+  'rougir',
+  'refaire',
+  'réduire',
+  'réélire',
+  'refléter',
+  'refuser',
+  'regretter',
+  'remoudre',
+  'rejeter',
+  'rejoindre',
+  'rester',
+  'souvenir',
+  'enlever',
+  'reconduire',
+  'renouveler',
+  'renoncer',
+  'louer',
+  'déclore',
+  'rouvrir',
+  'repeindre',
+  'réparer',
+  'redire',
+  'répéter',
+  'repentir',
+  'remplacer',
+  'réprimander',
+  'reproduire',
+  'relire',
+  'ressembler',
+  'résoudre',
+  'reposer',
+  'restreindre',
+  'retenir',
+  'dédire',
+  'retourner',
+  'rentrer',
+  'révéler',
+  'récrire',
+  'sonner',
+  'déchirer',
+  'rouler',
+  'courir',
+  'recourir',
+  'enfuir',
+  'satisfaire',
+  'sauver',
+  'dire',
+  'gronder',
+  'mépriser',
+  'gratter',
+  'séduire',
+  'apercevoir',
+  'voir',
+  'revoir',
+  'paraître',
+  'sembler',
+  'saisir',
+  'vendre',
+  'envoyer',
+  'séparer',
+  'servir',
+  'coudre',
+  'recoudre',
+  'secouer',
+  'partager',
+  'émoudre',
+  'tondre',
+  'luire',
+  'crier',
+  'montrer',
+  'transparaître',
+  'frémir',
+  'tressaillir',
+  'signer',
+  'signaler',
+  'pécher',
+  'chanter',
+  'asseoir',
+  'patiner',
+  'skier',
+  'dormir',
+  'ralentir',
+  'sourire',
+  'fumer',
+  'neiger',
+  'salir',
+  'souiller',
+  'séjourner',
+  'épeler',
+  'dépenser',
+  'fendre',
+  'gâter',
+  'répandre',
+  'jaillir',
+  'presser',
+  'énoncer',
+  'veiller',
+  'voler',
+  'coller',
+  'puer',
+  'arrêter',
+  'tendre',
+  'étendre',
+  'zébrer',
+  'étudier',
+  'étourdir',
+  'soumettre',
+  'prescrire',
+  'souscrire',
+  'réussir',
+  'sucer',
+  'succomber',
+  'souffrir',
+  'suffire',
+  'suggérer',
+  'quérir',
+  'supposer',
+  'soutenir',
+  'supporter',
+  'surprendre',
+  'survivre',
+  'balancer',
+  'jurer',
+  'balayer',
+  'nager',
+  'amener',
+  'emmener',
+  'prendre',
+  'reprendre',
+  'envoler',
+  'revendiquer',
+  'parler',
+  'pianoter',
+  'tapoter',
+  'goûter',
+  'enseigner',
+  'raconter',
+  'éprouver',
+  'remercier',
+  'penser',
+  'réfléchir',
+  'menacer',
+  'jeter',
+  'lancer',
+  'tonner',
+  'nouer',
+  'transcrire',
+  'traduire',
+  'transmettre',
+  'voyager',
+  'traiter',
+  'tricher',
+  'essayer',
+  'tenter',
+  'tourner',
+  'verdir',
+  'jaunir',
+  'tordre',
+  'subir',
+  'comprendre',
+  'entreprendre',
+  'défaire',
+  'dévêtir',
+  'unifier',
+  'conjoindre',
+  'unir',
+  'découdre',
+  'utiliser',
+  'tutoyer',
+  'varier',
+  'voiler',
+  'aventurer',
+  'vérifier',
+  'visiter',
+  'voter',
+  'attendre',
+  'réveiller',
+  'promener',
+  'cheminer',
+  'marcher',
+  'vouloir',
+  'laver',
+  'gaspiller',
+  'affaiblir',
+  'faiblir',
+  'porter',
+  'peser',
+  'accueillir',
+  'mouiller',
+  'bêler',
+  'chuchoter',
+  'siffler',
+  'gagner',
+  'essuyer',
+  'souhaiter',
+  'travailler',
+  'inquiéter',
+  'écrire',
+  'rédiger',
+  'inscrire',
+  'noter',
+  'zoner',
+  'féliciter',
+  'démolir',
+  'dénoncer',
+  'nier',
+  'dépendre',
+  'fier',
+  'dépeindre',
+  'descendre',
+  'décrire',
+  'désirer',
+  'détruire',
+  'développer',
+  'mourir',
+  'différer',
+  'fouiller',
+  'diminuer',
+  'diriger',
+  'disparaître',
+  'décevoir',
+  'disjoindre',
+  'décourager',
+  'discourir',
+  'découvrir',
+  'discuter',
+  'éconduire',
+  'renvoyer',
+  'désobéir',
+  'déplaire',
+  'dissoudre',
+  'déranger',
+  'plonger',
+  'détourner',
+  'divorcer',
+  'douter',
+  'dessiner',
+  'tracer',
+  'rêver',
+  'songer',
+  'habiller',
+  'boire',
+  'conduire',
+  'noyer',
+  'teindre',
+  'reteindre',
+  'manger',
+  'élire',
+  'étreindre',
+  'employer',
+  'enclore',
+  'encourager',
+  'terminer',
+  'enjoindre',
+  'jouir',
+  'ensuivre',
+  'entrer',
+  'pénétrer',
+  'égayer',
+  'équivaloir',
+  'effacer',
+  'échapper',
+  'établir',
+  'conquérir',
+  'consentir',
+  'considérer',
+  'construire',
+  'consommer',
+  'circonscrire',
+  'contenir',
+  'continuer',
+  'contredire',
+  'contrevenir',
+  'contrôler',
+  'convenir',
+  'convaincre',
+  'cuire',
+  'corriger',
+  'correspondre',
+  'corrompre',
+  'coûter',
+  'tousser',
+  'compter',
+  'riposter',
+  'couvrir',
+  'parcourir',
+  'créer',
+  'traverser',
+  'écraser',
+  'pleurer',
+  'guérir',
+  'maudire',
+  'couper',
+  'danser',
+  'oser',
+  'poindre',
+  'abasourdir',
+  'forclore',
+  'débattre',
+  'tromper',
+  'décider',
+  'déduire',
+  'vaincre',
+  'défendre',
+  'ravir'
+];
