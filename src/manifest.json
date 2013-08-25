@@ -7,9 +7,9 @@
     {
       "matches": ["http://www.conjugation-fr.com/*"],
       "css": ["conjugation.css"],
-      "js": ["jquery-2.0.3.min.js", "underscore-1.5.1.min.js", "conjugation.js"],
+      "js": ["jquery-2.0.3.min.js", "underscore-1.5.1.min.js", "conjugation.js","verblist.js"],
       "run_at" : "document_start"
     }
   ],
-  "web_accessible_resources": ["jquery-2.0.3.min.js","underscore-1.5.1.min.js","conjugation.js"]
+  "web_accessible_resources": ["jquery-2.0.3.min.js","underscore-1.5.1.min.js","conjugation.js","verblist.js"]
 }

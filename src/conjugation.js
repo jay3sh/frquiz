@@ -59,6 +59,7 @@ $(document).ready(function () {
   });
 
 
+  // Add Quiz form to curtain
   var quizForm = buildQuizForm(conjParts);
   quizForm.find('table').css({
     'margin-left' : '0px'
@@ -87,4 +88,23 @@ $(document).ready(function () {
     }
     return false;
   });
+
+  // Add restore-original-webpage link to curtain
+  var restore = $('<a href="#" id="restore">Original Webpage</a>');
+  curtain.append(restore);
+  restore.click(function () {
+    curtain.hide();
+    $('body table').css('margin-left','0px');
+  });
+
+  curtain.append($('<br/><br/>'));
+
+  // Add link to new random verb
+  var randomIndex = Math.round(Math.random() * COMMON_VERB_LIST.length);
+  var randomVerb = COMMON_VERB_LIST[randomIndex]
+  var randomVerbHtml =
+    $('<a href="http://www.conjugation-fr.com/conjugate.php?verb='+
+    randomVerb + '" id="newverb">New Verb</a>');
+  curtain.append(randomVerbHtml);
+
 });
