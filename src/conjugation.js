@@ -14,6 +14,19 @@ if(!disable) {
   (document.head||document.documentElement).appendChild(s);
 }
 
+function getScore() {
+  return {
+    correct : parseInt(window.localStorage.getItem('correct') || 0, 10),
+    total : parseInt(window.localStorage.getItem('total') || 0, 10)
+  };
+}
+
+function recordOneScore(isCorrect) {
+  var correct = parseInt(window.localStorage.getItem('correct') || 0, 10);
+  var total = parseInt(window.localStorage.getItem('total') || 0, 10);
+  window.localStorage.setItem('correct', isCorrect ? correct+1 : correct);
+  window.localStorage.setItem('total', total+1);
+}
 
 function buildQuizForm(pairs) {
   return $(
@@ -104,10 +117,12 @@ $(document).ready(function () {
           var answer = $(elem).val().toLowerCase();
           if(conjMap[key] == answer) {
             $(elem).css('background','#aaffaa');
+            recordOneScore(true);
           } else {
             $(elem).css('background','#ffaaaa');
             var correctElem = quizForm.find('span.correct[id='+key+']');
             $(correctElem).text(conjMap[key]);
+            recordOneScore(false);
           }
         });
       } catch(e) {
@@ -122,6 +137,14 @@ $(document).ready(function () {
         'http://www.conjugation-fr.com/conjugate.php?verb='+randomVerb;
     }
   });
+
+  var curScore = getScore();
+  if(curScore.total > 0) {
+    curtain.append($('<br/>'));
+    curtain.append('Score <span id="score"></span>');
+    var percScore = 100 * curScore.correct/curScore.total;
+    curtain.find('#score').text(percScore.toFixed(2)+' %');
+  }
 
   // Add restore-original-webpage link to curtain
   /*
