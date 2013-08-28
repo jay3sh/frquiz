@@ -109,6 +109,16 @@ $(document).ready(function () {
   });
 
 
+  function updateScore() {
+    var curScore = getScore();
+    if(curScore.total > 0) {
+      curtain.append($('<br/>'));
+      curtain.append('<span id="score"></span>');
+      var percScore = 100 * curScore.correct/curScore.total;
+      curtain.find('#score').text('Score '+percScore.toFixed(2)+'%');
+    }
+  }
+
   // Add Quiz form to curtain
   var quizForm = buildQuizForm(conjParts);
   var conjMap = {};
@@ -135,6 +145,7 @@ $(document).ready(function () {
             recordOneScore(false);
           }
         });
+        updateScore();
       } catch(e) {
         console.log(e);
       }
@@ -148,13 +159,7 @@ $(document).ready(function () {
     }
   });
 
-  var curScore = getScore();
-  if(curScore.total > 0) {
-    curtain.append($('<br/>'));
-    curtain.append('Score <span id="score"></span>');
-    var percScore = 100 * curScore.correct/curScore.total;
-    curtain.find('#score').text(percScore.toFixed(2)+' %');
-  }
+  updateScore();
 
   // Add restore-original-webpage link to curtain
   /*

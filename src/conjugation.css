@@ -7,6 +7,14 @@
   font-size : 80%;
 }
 
+#quizcurtain #score {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 120%;
+  color: #007700;
+  text-shadow: 1px 1px #aaaaaa;
+}
+
 #quizcurtain > form > table {
   width : 30%;
   margin-left : 35%;
