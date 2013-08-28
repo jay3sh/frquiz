@@ -93,7 +93,8 @@ $(document).ready(function () {
     '<span id="meaning"><a href="http://translate.google.com/#fr/en/'+
     mainVerb+'" target="_blank">meaning</a></span>'));
   curtain.append('<br/><br/>');
-  curtain.append('<span id="hintinfo"></span>');
+  curtain.append('<p class="triangle-border right" id="hintinfo"></p>');
+  curtain.find('#hintinfo').hide();
 
   //
   // Extract verb conjugations for Present
@@ -149,7 +150,7 @@ $(document).ready(function () {
           }
         });
         updateScore();
-        curtain.find('#hintinfo').text(hintInfo);
+        curtain.find('#hintinfo').text(hintInfo).show();
       } catch(e) {
         console.log(e);
       }

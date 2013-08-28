@@ -3,6 +3,14 @@
   text-align : center;
 }
 
+#quizcurtain #hintinfo {
+  width : 300px;
+  position : absolute;
+  min-height : 80px;
+  left : 20px;
+  top : 20px;
+}
+
 #quizcurtain #mainverb {
   text-shadow : 1px 1px #aaaaaa;
   font-size : 130%;
