@@ -3,6 +3,11 @@
   text-align : center;
 }
 
+#quizcurtain #mainverb {
+  text-shadow : 1px 1px #aaaaaa;
+  font-size : 130%;
+  color : #220000
+}
 #quizcurtain #meaning {
   font-size : 80%;
 }
