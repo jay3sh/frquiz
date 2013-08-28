@@ -59,6 +59,9 @@ $(document).ready(function () {
   var verbString = $(verbTitlePrefix).parent().text().replace(/[\r\n]/g,'');
   var mainVerb = verbString.split(':')[1];
 
+
+  var hintInfo = $('font').parent().parent().text().replace(/[\r\n]/g,'');
+
   //
   // Add curtain to hide the answers
   //
@@ -89,6 +92,8 @@ $(document).ready(function () {
   curtain.append($(
     '<span id="meaning"><a href="http://translate.google.com/#fr/en/'+
     mainVerb+'" target="_blank">meaning</a></span>'));
+  curtain.append('<br/><br/>');
+  curtain.append('<span id="hintinfo"></span>');
 
   //
   // Extract verb conjugations for Present
@@ -100,9 +105,7 @@ $(document).ready(function () {
     var sentence = $(conjspan.previousSibling).text() + $(conjspan).text();
     sentence = sentence.trim();
     if(sentence.indexOf("'") > 0) {
-      var parts = sentence.split(/'/);
-      parts[0] += "'"; // Change j to j'
-      return parts;
+      return sentence.split(/'/);
     } else {
       return sentence.split(/\s+/);
     }
@@ -146,6 +149,7 @@ $(document).ready(function () {
           }
         });
         updateScore();
+        curtain.find('#hintinfo').text(hintInfo);
       } catch(e) {
         console.log(e);
       }
