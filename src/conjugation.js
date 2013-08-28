@@ -86,6 +86,9 @@ $(document).ready(function () {
   // Add main verb to title
   //
   curtain.append($('<h2>'+mainVerb+'</h2>'));
+  curtain.append($(
+    '<span id="meaning"><a href="http://translate.google.com/#fr/en/'+
+    mainVerb+'" target="_blank">meaning</a></span>'));
 
   //
   // Extract verb conjugations for Present

@@ -3,6 +3,10 @@
   text-align : center;
 }
 
+#quizcurtain #meaning {
+  font-size : 80%;
+}
+
 #quizcurtain > form > table {
   width : 30%;
   margin-left : 35%;
