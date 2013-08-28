@@ -95,7 +95,14 @@ $(document).ready(function () {
 
   var conjParts = _(conjSpans).map(function (conjspan) {
     var sentence = $(conjspan.previousSibling).text() + $(conjspan).text();
-    return sentence.trim().split(/\s+/);
+    sentence = sentence.trim();
+    if(sentence.indexOf("'") > 0) {
+      var parts = sentence.split(/'/);
+      parts[0] += "'"; // Change j to j'
+      return parts;
+    } else {
+      return sentence.split(/\s+/);
+    }
   });
 
 
