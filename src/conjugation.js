@@ -60,7 +60,7 @@ $(document).ready(function () {
   var mainVerb = verbString.split(':')[1];
 
 
-  var hintInfo = $('font').parent().parent().text().replace(/[\r\n]/g,'');
+  var hintInfo = $('font').parent().parent().text().replace(/[\r\n]/g,'&nbsp;');
 
   //
   // Add curtain to hide the answers
@@ -150,7 +150,7 @@ $(document).ready(function () {
           }
         });
         updateScore();
-        curtain.find('#hintinfo').text(hintInfo).show();
+        curtain.find('#hintinfo').html(hintInfo).show();
       } catch(e) {
         console.log(e);
       }
